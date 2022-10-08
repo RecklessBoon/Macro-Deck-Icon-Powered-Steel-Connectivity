@@ -1,0 +1,9 @@
+{
+    "type" : "IconPack",
+    "name" : "Powered Steel (Connectivity)",
+    "author" : "RecklessBoon",
+    "repository" : "https://github.com/RecklessBoon/Macro-Deck-Icon-Powered-Steel-Connectivity",
+    "packageId" : "RecklessBoon.PoweredSteel.Connectivity",
+    "version" : "1.0.0",
+    "target-plugin-api-version" : 36
+  }
